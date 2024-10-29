@@ -1,0 +1,56 @@
+#root {
+	margin: auto;
+	padding: 0rem;
+	text-align: center;
+}
+
+article {
+	display: flex;
+	border: solid rgb(38, 206, 206) 2px;
+	border-radius: 1.5em;
+	justify-content: end;
+	align-items: center;
+	flex-direction: column;
+	margin: 0.5em;
+	padding: 1em;
+	box-shadow: 3px 3px 0px rgb(38, 206, 206);
+}
+
+section {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+nav {
+	display: flex;
+	justify-content: center;
+}
+
+div {
+}
+
+button {
+	margin: 0.5em;
+	font-family: Arial, Helvetica, sans-serif;
+	box-shadow: 3px 3px 0px rgb(38, 206, 206);
+}
+
+h1 {
+	background-color: rgb(38, 206, 206);
+	padding: 0.5em;
+	margin: 0 auto;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: larger;
+	color: rgb(38, 206, 206);
+}
+
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0 auto;
+	font-size: medium;
+}
